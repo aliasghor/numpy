@@ -1,2 +1,2 @@
-# numpy
-Hi! Welcome to my Python NumPy (Numerical Python) tutorial.
+# Hi! Welcome to my Python numpy repository
+This [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) contains all of my Python NumPy (Numerical Python) tutorial. Each of the Python NumPy tutorials will have their own [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches).
