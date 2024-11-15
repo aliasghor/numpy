@@ -9,4 +9,4 @@ At the core of the NumPy package, is the `ndarray` object. This encapuslates n-d
 - The elements must be the same data type, and thus will be the same size in memory. It is also possible to have a different data type elements, but the size will not be the same in memory, and sacrifice all of the `ndarray` object methods that are useful for doing scientific things.
 - NumPy array faciliate advanced mathematical operations (e.g., addition, substraction, division, multiplication, mean, sum, etc).
 
-For more comprehensive informations about NumPy array, please consider visit the website doccumentation: [nump.org](https://numpy.org/doc/stable/).
+For more comprehensive informations about NumPy array, please consider visit the website doccumentation: [numpy.org](https://numpy.org/doc/stable/).
